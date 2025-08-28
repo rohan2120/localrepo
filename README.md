@@ -1,1 +1,1 @@
-# This my Git Demo Local Repo
+# This is my Git Demo Local Repo
